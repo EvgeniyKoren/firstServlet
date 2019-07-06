@@ -1,0 +1,17 @@
+body {
+    background: grey;
+}
+.wrapper {
+    margin: 0 auto;
+    width: 900px;
+    background: #FFE4E1;
+}
+.wrapper>div {
+    margin: 10px 40px;
+    padding: 10px;
+}
+table {
+    background: whitesmoke;
+    margin: 0 auto;
+    width: 300px;
+}
